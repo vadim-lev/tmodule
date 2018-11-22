@@ -1,0 +1,21 @@
+{
+  "name": "vuejs-tutorials-lesson8",
+  "version": "1.0.0",
+  "description": "Этот репозиторий создан специально для публикации примеров из YouTube серии \"Vue.js с нуля\" - https://www.youtube.com/watch?v=k3yRfEw1pYk&list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-exec": "^3.0.2"
+  },
+  "dependencies": {
+    "client_modules": "file:./client_modules",
+    "vue": "^2.5.17",
+    "vue-style-loader": "^4.1.2"
+  }
+}

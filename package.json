@@ -1,10 +1,11 @@
 {
   "name": "vuejs-tutorials-lesson8",
   "version": "1.0.0",
-  "description": "Этот репозиторий создан специально для публикации примеров из YouTube серии \"Vue.js с нуля\" - https://www.youtube.com/watch?v=k3yRfEw1pYk&list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7",
+  "description": "Этот репозиторий создан специально ",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node main.js"
   },
   "author": "",
   "license": "ISC",
